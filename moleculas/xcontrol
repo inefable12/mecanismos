@@ -1,0 +1,7 @@
+$constraints
+  force constant=5.0
+  distance: 3,2,2.2
+$scan
+  mode=relaxed
+  step=-0.05,24
+$end
